@@ -1,0 +1,23 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodymyr-hollub1/weathercli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodymyr-hollub1/weathercli/issues"
+  },
+  "homepage": "https://github.com/volodymyr-hollub1/weathercli#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
