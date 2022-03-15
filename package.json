@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/volodymyr-hollub1/weathercli#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
   }
 }
